@@ -1,5 +1,6 @@
 # Summary
 
-* [Introdução](README.md)
-* [Capítulo 1 - Trabalhando remotamente](capitulo1.md)
-* [Capítulo 2 - Conflitos](capitulo2.md)
+* [Introdução](introducao.md)
+* [Receita 1](salada_simples.md)
+* [Receita 2](salada_tomate.md)
+* [Receita 3](salada_colorida.md)
